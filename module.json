@@ -1,0 +1,20 @@
+{
+  "id": "unfold-all-rolls",
+  "title": "Unfold All Rolls",
+  "description": "Force-unfold all rolls in the chat panel so the die values are visible.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Skepickle",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "styles": [
+    "style.css"
+  ]
+}
