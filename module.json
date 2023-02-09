@@ -16,5 +16,9 @@
   },
   "styles": [
     "style.css"
-  ]
+  ],
+  "url": "https://github.com/skepickle/foundryvtt-unfold-all-rolls",
+  "manifest": "https://raw.githubusercontent.com/skepickle/foundryvtt-unfold-all-rolls/1.0.0/module.json",
+  "download": "https://github.com/skepickle/foundryvtt-unfold-all-rolls/archive/1.0.0.zip",
+  "readme": "https://raw.githubusercontent.com/skepickle/foundryvtt-unfold-all-rolls/1.0.0/README.md"
 }
