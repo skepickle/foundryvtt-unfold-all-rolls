@@ -2,7 +2,7 @@
   "id": "unfold-all-rolls",
   "title": "Unfold All Rolls",
   "description": "Force-unfold all rolls in the chat panel so the die values are visible.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "authors": [
     {
       "name": "Skepickle",
@@ -11,14 +11,14 @@
   ],
   "compatibility": {
     "minimum": "10",
-    "verified": "12",
-    "maximum": "12"
+    "verified": "13",
+    "maximum": "13"
   },
   "styles": [
     "style.css"
   ],
   "url": "https://github.com/skepickle/foundryvtt-unfold-all-rolls",
-  "manifest": "https://raw.githubusercontent.com/skepickle/foundryvtt-unfold-all-rolls/1.0.2/module.json",
-  "download": "https://github.com/skepickle/foundryvtt-unfold-all-rolls/archive/1.0.2.zip",
-  "readme": "https://raw.githubusercontent.com/skepickle/foundryvtt-unfold-all-rolls/1.0.2/README.md"
+  "manifest": "https://raw.githubusercontent.com/skepickle/foundryvtt-unfold-all-rolls/1.0.3/module.json",
+  "download": "https://github.com/skepickle/foundryvtt-unfold-all-rolls/archive/1.0.3.zip",
+  "readme": "https://raw.githubusercontent.com/skepickle/foundryvtt-unfold-all-rolls/1.0.3/README.md"
 }
